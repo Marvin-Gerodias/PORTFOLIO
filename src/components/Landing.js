@@ -8,7 +8,9 @@ function Landing() {
                 <p>I'm a <span>full-stack developer</span> and a <span>graphic designer</span> residing in the Bay Area.</p>
             </div>
             <div className="tagline__2">
-                <p>I write clean backends <br/><span>&</span> pretty frontends.</p>
+                <p>Clean backends<br/>
+                <span>& </span> 
+                pretty frontends.</p>
             </div>
             <div className="button1">
             <button type="button" class="btn btn-outline-dark" disabled>More to come!</button> 
