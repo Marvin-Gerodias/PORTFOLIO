@@ -13,7 +13,7 @@ function Header() {
                 </div>
 
                 <div className="selections__header">
-                    <ButtonGroup  variant="text" aria-label="text primary button group">
+                    <ButtonGroup  variant="text" aria-label="text primary button group" disabled>
                         <Button>Projects</Button>
                         <Button>About</Button>
                         <Button>Contact</Button>

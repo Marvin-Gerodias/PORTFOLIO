@@ -11,7 +11,7 @@ function Landing() {
                 <p>With a bachelors in graphic design and experience in developing full-stack applications, I create clean and professional web applications. </p>
             </div>
             <div className="button1">
-            <button type="button" class="btn btn-outline-dark">More to come!</button> 
+            <button type="button" class="btn btn-outline-danger" disabled>Project Page Coming Soon!</button> 
             </div>
         </div>
     )
