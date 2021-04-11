@@ -30,7 +30,7 @@ function Landing() {
                 <p>I'm a <span>full-stack developer</span> and a <span>graphic designer</span> residing in the Bay Area.</p>
             </div>
             <div className="tagline__2">
-                <p>With a bachelors in graphic design and experience in developing full-stack applications, I create clean and professional web applications. </p>
+                <p>With a bachelors in graphic design and experience in full-stack development, I create clean and professional web applications. </p>
             </div>
             <div className="button1">
             <a href="#projects"><button type="button" class="btn btn-danger">Project Page Coming Soon!</button></a> 
