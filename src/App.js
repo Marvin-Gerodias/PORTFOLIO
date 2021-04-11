@@ -1,12 +1,18 @@
-import logo from './logo.svg';
 import './App.css';
 
 import Main from './views/Main'
 
+
+import { Router,Redirect } from '@reach/router'
+
 function App() {
   return (
     <div className="App">
-      <Main />
+      <Router>
+        <Redirect from="/PORTFOLIO" to="/main" noThrow />
+        <Main path = "/main" />
+
+      </Router>
     </div>
   );
 }

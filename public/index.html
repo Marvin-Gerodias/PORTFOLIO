@@ -44,16 +44,34 @@
   <!--JQUERY-->
   <script src='https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js'></script>
 
-  <script type="text/javascript">
-    $(document).ready(function(){
-      $('div.tagline__1').fadeOut(1).delay(500).fadeIn(800);
-      $('div.tagline__2').fadeOut(1).delay(3000).fadeIn(800);
-      $('div.button1').fadeOut(1).delay(5000).fadeIn(800);
-    })
-  </script>
+  <!--SMOOTH SCROLL-->
+  <script src="dist/smooth-scroll.polyfills.min.js"></script>
+  <script>var scroll = new SmoothScroll('a[href*="#"]',{
+    // Selectors
+    ignore: '[data-scroll-ignore]',
+    header: null,
+    topOnEmptyHash: true,
 
+    // Speed & Duration
+    speed: 100,
+    speedAsDuration: false,
+    durationMax: null,
+    durationMin: null,
+    clip: true,
+    offset: 0,
+
+    // Easing
+    easing: 'easeOutQuad',
+    customEasing: null,
+
+    // History
+    updateURL: true,
+    popstate: true,
+
+    // Custom Events
+    emitEvents: true
+    });</script>
   <!--###########################################################-->
-
 
     <title>MG | Portfolio</title>
   </head>
