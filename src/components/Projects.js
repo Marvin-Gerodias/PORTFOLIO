@@ -1,6 +1,7 @@
 import React from 'react'
 import '../css/Projects.css'
 import $ from 'jquery'
+import jobtrackrapp from '../images/jobtrackrapp.png'
 
 $(window).load("localhost:3000/projects", function(){
 
@@ -13,10 +14,10 @@ function Projects() {
         <div className="projects" >
                 <div className="projects__container" id="projects">
                     <div className="projects__items1" > 
-                        <div className="items__img"><img src="https://socialistmodernism.com/wp-content/uploads/2017/07/placeholder-image.png" alt=""/></div>
+                        <div className="items__img"><img src={jobtrackrapp} alt=""/></div>
                         <div className="items__content">
-                            <h5>Project</h5>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
+                            <h5>Job Trackr</h5>
+                            <p>An application designed to keep track of all the job applications you have sent out. Once you have created or selected a username, you are able to add jobs complete with company name, location, and salary among many other attributes.</p>
                             <div class="icons">
                                 <i class="devicon-react-original-wordmark"></i>
                                 <i class="devicon-mongodb-plain-wordmark"></i>
