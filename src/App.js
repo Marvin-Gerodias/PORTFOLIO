@@ -9,8 +9,8 @@ function App() {
   return (
     <div className="App">
       <Router>
-        <Redirect from="/PORTFOLIO" to="/main" noThrow />
-        <Main path = "/main" />
+        <Redirect from="/main" to="/PORTFOLIO" noThrow />
+        <Main path = "/PORTFOLIO" />
 
       </Router>
     </div>
