@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/PORTFOLIO/static/css/main.520da425.chunk.css",
-    "main.js": "/PORTFOLIO/static/js/main.608d113b.chunk.js",
-    "main.js.map": "/PORTFOLIO/static/js/main.608d113b.chunk.js.map",
+    "main.css": "/PORTFOLIO/static/css/main.06636207.chunk.css",
+    "main.js": "/PORTFOLIO/static/js/main.1e46b7e0.chunk.js",
+    "main.js.map": "/PORTFOLIO/static/js/main.1e46b7e0.chunk.js.map",
     "runtime-main.js": "/PORTFOLIO/static/js/runtime-main.7f86739d.js",
     "runtime-main.js.map": "/PORTFOLIO/static/js/runtime-main.7f86739d.js.map",
     "static/js/2.ba209f74.chunk.js": "/PORTFOLIO/static/js/2.ba209f74.chunk.js",
@@ -10,13 +10,14 @@
     "static/js/3.b032de6b.chunk.js": "/PORTFOLIO/static/js/3.b032de6b.chunk.js",
     "static/js/3.b032de6b.chunk.js.map": "/PORTFOLIO/static/js/3.b032de6b.chunk.js.map",
     "index.html": "/PORTFOLIO/index.html",
-    "static/css/main.520da425.chunk.css.map": "/PORTFOLIO/static/css/main.520da425.chunk.css.map",
-    "static/js/2.ba209f74.chunk.js.LICENSE.txt": "/PORTFOLIO/static/js/2.ba209f74.chunk.js.LICENSE.txt"
+    "static/css/main.06636207.chunk.css.map": "/PORTFOLIO/static/css/main.06636207.chunk.css.map",
+    "static/js/2.ba209f74.chunk.js.LICENSE.txt": "/PORTFOLIO/static/js/2.ba209f74.chunk.js.LICENSE.txt",
+    "static/media/jobtrackrapp.db5e820e.png": "/PORTFOLIO/static/media/jobtrackrapp.db5e820e.png"
   },
   "entrypoints": [
     "static/js/runtime-main.7f86739d.js",
     "static/js/2.ba209f74.chunk.js",
-    "static/css/main.520da425.chunk.css",
-    "static/js/main.608d113b.chunk.js"
+    "static/css/main.06636207.chunk.css",
+    "static/js/main.1e46b7e0.chunk.js"
   ]
 }
