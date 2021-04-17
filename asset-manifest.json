@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/PORTFOLIO/static/css/main.06636207.chunk.css",
-    "main.js": "/PORTFOLIO/static/js/main.f201b021.chunk.js",
-    "main.js.map": "/PORTFOLIO/static/js/main.f201b021.chunk.js.map",
+    "main.js": "/PORTFOLIO/static/js/main.c4f2e5de.chunk.js",
+    "main.js.map": "/PORTFOLIO/static/js/main.c4f2e5de.chunk.js.map",
     "runtime-main.js": "/PORTFOLIO/static/js/runtime-main.7f86739d.js",
     "runtime-main.js.map": "/PORTFOLIO/static/js/runtime-main.7f86739d.js.map",
     "static/js/2.ba209f74.chunk.js": "/PORTFOLIO/static/js/2.ba209f74.chunk.js",
@@ -12,12 +12,12 @@
     "index.html": "/PORTFOLIO/index.html",
     "static/css/main.06636207.chunk.css.map": "/PORTFOLIO/static/css/main.06636207.chunk.css.map",
     "static/js/2.ba209f74.chunk.js.LICENSE.txt": "/PORTFOLIO/static/js/2.ba209f74.chunk.js.LICENSE.txt",
-    "static/media/jobtrackrapp.db5e820e.png": "/PORTFOLIO/static/media/jobtrackrapp.db5e820e.png"
+    "static/media/jobtrackrapp.eba1b70d.png": "/PORTFOLIO/static/media/jobtrackrapp.eba1b70d.png"
   },
   "entrypoints": [
     "static/js/runtime-main.7f86739d.js",
     "static/js/2.ba209f74.chunk.js",
     "static/css/main.06636207.chunk.css",
-    "static/js/main.f201b021.chunk.js"
+    "static/js/main.c4f2e5de.chunk.js"
   ]
 }
